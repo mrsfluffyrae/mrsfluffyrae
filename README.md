@@ -1,5 +1,5 @@
 <div align="center"> 
-  <img src="./Banner.svg" alt="Rachael Muthoni Njeru, Data Science and Computer Science Student" width="100%" /> 
+  <img src="banner.svg" alt="Rachael Muthoni Njeru, Data Science and Computer Science Student" width="100%" /> 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=C026D3&center=true&vCenter=true&width=640&lines=Turning+messy+data+into+pretty+insights+%E2%9C%A8;Machine+Learning+%E2%80%A2+Data+Modeling+%E2%80%A2+Backend+Systems;One+fluffy+commit+at+a+time+%F0%9F%90%BE" alt="Typing animation" /> 
   <br/>
 
@@ -8,7 +8,7 @@
   <a href="https://discordapp.com/users/857313265171431424"><img src="https://img.shields.io/badge/Discord-c084fc?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </div> 
 
-<img src="./Divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 🌸 About Me
 
@@ -23,7 +23,7 @@ I'm a Data Science & Computer Science student who loves finding the story hiding
 
 </div> 
 
-<img src="./Divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 🏆 Achievements & Highlights
 <!-- Add your own wins here as you earn them, for example: - 🥇 Hackathon placements - 📜 Certifications (Cisco, Coursera, etc.) - 🎓 Dean's list, scholarships, competitions --> 
@@ -31,7 +31,7 @@ I'm a Data Science & Computer Science student who loves finding the story hiding
   <img src="https://github-profile-trophy.vercel.app/?username=mrsfluffyrae&theme=radical&no-frame=true&no-bg=true&margin-w=12&column=7&row=1" alt="GitHub Trophies" /> 
 </p> 
 
-<img src="./Divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 💻 My Tech Garden 🌱
 <p align="center"> 
@@ -47,7 +47,7 @@ I'm a Data Science & Computer Science student who loves finding the story hiding
   <img src="https://img.shields.io/badge/Ubuntu-d946ef?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" /> 
 </p> 
 
-<img src="./Divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ✨ Sparkle Stats
 <p align="center"> 
@@ -58,7 +58,7 @@ I'm a Data Science & Computer Science student who loves finding the story hiding
   <img src="https://streak-stats.demolab.com/?user=mrsfluffyrae&hide_border=true&background=1a1033&ring=f472b6&fire=c084fc&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=f9a8d4&sideLabels=e9d5ff&dates=d8b4fe&border_radius=12" alt="GitHub Streak" /> 
 </p> 
 
-<img src="./Divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 🦋 Contribution Bloom
 <p align="center"> 
