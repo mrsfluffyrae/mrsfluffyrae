@@ -28,7 +28,7 @@ I'm a Data Science & Computer Science student who loves finding the story hiding
 🏆 Achievements & Highlights
 <!-- Add your own wins here as you earn them, for example: - 🥇 Hackathon placements - 📜 Certifications (Cisco, Coursera, etc.) - 🎓 Dean's list, scholarships, competitions --> 
 <p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=mrsfluffyrae&theme=radical&no-frame=true&no-bg=true&margin-w=12&column=7&row=1" alt="GitHub Trophies" /> 
+  <img src="https://github-profile-trophy.vercel.app/?username=mrsfluffyrae&theme=radical&no-frame=true&no-bg=true&margin_w=15" alt="GitHub Trophies" /> 
 </p> 
 
 <img src="divider.svg" width="100%" alt="" />
